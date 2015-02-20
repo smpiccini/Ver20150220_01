@@ -16,6 +16,7 @@ int main(int argc, char** argv) {
         }
         i++;
     }
+    printf("\n");
     printf("I maggiorenni sono: %d\n", maggiorenni);
     return (EXIT_SUCCESS);
 }
